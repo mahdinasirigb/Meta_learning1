@@ -1,5 +1,7 @@
 # Time series model selection with meta-learning approach; evidence from pool of forecasting algorithms
 
+- <img src="https://latex.codecogs.com/gif.latex?Sasan Barak^1,2,*,  Mahdi Nasiri^3, Mehrdad Rostamzadeh^4 /> 
+
 Sasan Barak^1,2,*,  Mahdi Nasiri^3, Mehrdad Rostamzadeh^4
 
 1. Department of Management Science, Lancaster University Management School,
