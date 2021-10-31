@@ -15,3 +15,4 @@ Address: Faculty of Economics, Sokolská třída 33, Ostrava, Czech Republic.,
 Tel.: +420720495247; fax: +420597 322 008.
 E-mail addresses: s.barak@lancaster.ac.uk, sasan.barak@vsb.cz
 
+https://arxiv.org/abs/1908.08489
